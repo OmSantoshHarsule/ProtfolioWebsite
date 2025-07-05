@@ -98,7 +98,7 @@ const About: React.FC = () => {
               <div className="bg-white dark:bg-gray-900 rounded-md p-6">
                 <div className="relative h-64 w-full mb-6 overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800 flex items-center justify-center" >
                   <div className="text-6xl font-bold text-gray-300 dark:text-gray-700">
-                    <img src="src/images/awsprofile.jpeg" alt="" />
+                    <img src="/images/awsprofile.jpeg" alt="" />
                   </div>
                 </div>
                 <h3 className="text-xl font-semibold mb-1">Om Harsule</h3>
