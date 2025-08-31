@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
     const typeText = async () => {
       const element = typingRef.current;
       if (!element) return;
-      const text = 'Aspiring DevOps Engineer';
+      const text = 'DevOps | Cloud Engineer';
       element.innerText = '';
       for (let i = 0; i < text.length; i++) {
         element.innerText += text[i];
