@@ -35,10 +35,7 @@ const About: React.FC = () => {
               Professional Summary
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-              Aspiring DevOps Engineer with over 2 years driving innovation
-              through hands-on K8s, Docker, Ansible, AWS, and implementing
-              scalable CICD pipelines. Proficient in applying security practices
-              for robust application delivery.
+              DevOps-Enabled Software Developer |K8s, Docker, AWS, Jenkins, Ansible | Building Scalable & Secure Solutions
             </p>
             <div className="mb-6">
               <div className="flex items-center mb-3">
@@ -103,7 +100,7 @@ const About: React.FC = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-1">Om Harsule</h3>
                 <p className="text-teal-500 font-medium mb-4">
-                  Aspiring DevOps Engineer
+                  DevOps | Cloud Engineer
                 </p>
                 <div className="flex flex-wrap gap-2">
                   {['AWS', 'Docker', 'Kubernetes', 'CI/CD', 'Ansible'].map((skill, index) => <span key={index} className="px-3 py-1 text-xs rounded-full bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200">
